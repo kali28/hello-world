@@ -7,4 +7,4 @@ I also love real estate.
 My brother is a programmer.
 He deleted the OS on his brand new Ipad and installed linux on it instead.
 He is Crazy!
-By the end of my journey into open souce, I may be crazy too!
+By the end of my journey into open source I may be crazy too!
